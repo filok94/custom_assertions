@@ -1,0 +1,4 @@
+#Зависимости для тестирования
+pytest==8.0.2
+playwright==1.41.0
+pytest-playwright==0.4.4
